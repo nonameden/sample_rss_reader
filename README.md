@@ -1,8 +1,8 @@
-# sample_rss_reader
+# Auckland Flutter Meetup example
 
-A new Flutter project.
+The sample RSS Reader demoed in the last Auckland Flutter Meetup.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
+To started with Flutter, check the official
 [documentation](https://flutter.io/).
